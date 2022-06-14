@@ -1,0 +1,31 @@
+header{
+    font-size: 30px;
+    font-weight: normal;
+    color: white;
+}
+body{
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+p{
+ color: aquamarine;
+}
+
+h2 {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+#desc{
+    color: gray;
+    font-size: 21px;
+}
+
+#tent{
+    border-top: 10px;
+}
+
+
