@@ -1,0 +1,1 @@
+Neste projeto, eu criei uma página da web que anuncia um produto chamado “Excursion”. eu usei o conjunto de ferramentas em desenvolvimento que estudei na @codecademy, incluindo HTML, CSS, Interface de linha de comando, Git e GitHub. fiquei orgulhoso quando tudo se encaixou direitinho e consegui resolver oque não estava dando muito certo.
